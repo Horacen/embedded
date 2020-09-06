@@ -1,0 +1,24 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S112                                 )
+(    Date/Time        : Mon Sep 30 12:36:00 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR IN CONNECT LINE <a href="xprobe:xy:642.744 622.744">(642.744 622.744)</a> - <a href="xprobe:xy:656.890 608.594">(656.890 608.594)</a>
+  class = ETCH
+  subclass = BOTTOM 
+  <b><i><font color="darkred">ERROR(SPMHA1-415)</i></b></font>: Line segments cannot overlap.
+   Error was fixed.
+
+WARNING   <b><i><font color="darkred">WARNING(SPMHDB-42)</i></b></font>: Run batch DRC to correctly regenerate DRC errs.
+
+1 warnings, 1 errors detected, 1 errors  fixed.
+</PRE>
+</BODY></HTML>

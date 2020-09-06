@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SMD-5032-2P.dra                               )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sat Aug 24 11:00:34 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/NianQ/Desktop/Allergo/HardWare/Lib/pad
+    Name      = smd-5032-2p.psm
+    User      = NianQ
+    Machine   = DESKTOP-NV31TDS
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

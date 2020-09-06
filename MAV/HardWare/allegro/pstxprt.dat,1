@@ -1,0 +1,1107 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Aug-25-2019 at 10:53:40 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MXJ';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_0_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS3409@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins3409@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins3409@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS9059@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins9059@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins9059@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_1_0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS9431@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins9431@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins9431@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS9447@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins9447@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins9447@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_1_0603_10NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS9251@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins9251@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins9251@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_1_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS10308@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins10308@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins10308@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS10324@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins10324@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins10324@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_1_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS29978@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins29978@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins29978@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS11641@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins11641@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins11641@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_1_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS11657@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins11657@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins11657@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_1_0603_1.5PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15550@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15550@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15550@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_0_0603_1UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1043@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1043@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1043@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_1_0603_1PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15534@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15534@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15534@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_1_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS16424@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins16424@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins16424@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_1_0603_2.2NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15502@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15502@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15502@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_1_0603_4.7PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15518@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15518@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15518@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_1_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS14175@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins14175@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins14175@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_1_0603_10NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS14159@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins14159@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins14159@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_1_0603_1NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS14143@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins14143@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins14143@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_1_0603_33NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS14127@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins14127@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins14127@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_1_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS16440@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins16440@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins16440@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17645@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17645@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17645@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_0_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1059@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1059@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1059@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_1_0603_2.2UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17629@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17629@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17629@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_1_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17661@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17661@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17661@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_1_0603_22PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17613@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17613@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17613@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP POL_0_CASE-A-3216_T.47UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17686@MXJ.CAP POL_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17686@mxj.\cap pol_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17686@mxj.\cap pol_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17597@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17597@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17597@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS30985@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins30985@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins30985@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS19712@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins19712@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins19712@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_1_0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS19728@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins19728@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins19728@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_1_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS19949@MXJ.CAP NP_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins19949@mxj.\cap np_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins19949@mxj.\cap np_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP POL_0_CASE-A-3216_T.10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS21083@MXJ.CAP POL_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins21083@mxj.\cap pol_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins21083@mxj.\cap pol_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_0_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1338@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1338@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1338@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS57001@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins57001@discrete.\cap np.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins57001@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS57017@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins57017@discrete.\cap np.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins57017@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS57033@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins57033@discrete.\cap np.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins57033@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_0603_10UF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS57049@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins57049@discrete.\cap np.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins57049@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_0_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1354@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1354@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1354@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_0_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1370@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1370@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1370@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_0_0603_100NF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS1386@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins1386@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins1386@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_0_0603_20PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS2448@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins2448@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins2448@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_0_0603_20PF':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS2432@MXJ.CAP NP_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins2432@mxj.\cap np_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins2432@mxj.\cap np_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'BZX84C16/SOT_0_SOD-323_B5819WS':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS18064@MXJ.BZX84C16/SOT_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins18064@mxj.\bzx84c16/sot_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins18064@mxj.\bzx84c16/sot_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_SOD-323_1N5819':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS18712@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins18712@discrete.\diode.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins18712@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE_SOD-323_1N5819':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS22735@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins22735@discrete.\diode.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins22735@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_0603_RED':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS23801@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins23801@discrete.\led.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins23801@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER 4_A2541HWR-4P_BLUETOOTH':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS23067@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins23067@connector.\header 4.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins23067@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 4_UP_FLOW_OPTICAL-FLOW':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS22861@CONNECTOR.HEADER 4.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins22861@connector.\header 4.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins22861@connector.\header 4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_MOTOR_POWER':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS22353@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins22353@connector.\header 2.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins22353@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'HEADER 4_0_SH1_0_SWD':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS44364@MXJ.HEADER 4_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins44364@mxj.\header 4_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins44364@mxj.\header 4_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_0603_3.9NH':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15382@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15382@discrete.\inductor.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15382@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_0603_8.2NH':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15366@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15366@discrete.\inductor.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15366@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_0603_2.7NH':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS15398@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins15398@discrete.\inductor.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins15398@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_4_7UH_4.7UH':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS18001@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins18001@discrete.\inductor.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins18001@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M1 'HEADER 2_MOTOR_MOTOR1':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25155@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25155@connector.\header 2.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25155@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M2 'HEADER 2_MOTOR_MOTOR2':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25187@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25187@connector.\header 2.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25187@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M3 'HEADER 2_MOTOR_MOTOR3':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25774@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25774@connector.\header 2.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25774@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ M4 'HEADER 2_MOTOR_MOTOR4':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25203@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25203@connector.\header 2.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25203@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24152@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24152@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24152@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24188@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24188@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24188@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24170@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24170@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24170@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24206@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24206@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24206@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24955@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24955@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24955@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24973@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24973@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24973@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET N_0_SOT23-3_SI2310':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24991@MXJ.MOSFET N_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24991@mxj.\mosfet n_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24991@mxj.\mosfet n_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_0_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS3682@MXJ.R_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins3682@mxj.\r_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins3682@mxj.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_1_0603_2K 1%':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS30772@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins30772@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins30772@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS23717@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins23717@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins23717@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS30804@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins30804@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins30804@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_1_0603_1K 1%':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS30788@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins30788@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins30788@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_1_0603_R50':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24075@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24075@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24075@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_1_0603_R50':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24107@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24107@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24107@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_1_0603_R50':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24091@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24091@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24091@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24335@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24335@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24335@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24255@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24255@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24255@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24287@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24287@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24287@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_0_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS3698@MXJ.R_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins3698@mxj.\r_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins3698@mxj.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24319@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24319@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24319@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24271@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24271@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24271@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS24303@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins24303@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins24303@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25114@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25114@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25114@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25018@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25018@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25018@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25050@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25050@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25050@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_1_0603_1K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25082@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25082@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25082@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25034@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25034@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25034@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25066@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25066@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25066@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25098@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25098@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25098@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_0_0603_1M':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS2479@MXJ.R_0.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins2479@mxj.\r_0.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins2479@mxj.\r_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS25130@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins25130@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins25130@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_1_0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS29674@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins29674@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins29674@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_1_0603_1M':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS16465@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins16465@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins16465@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_1_0603_22K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS14028@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins14028@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins14028@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_1_0603_0':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS27184@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins27184@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins27184@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_1_0603_33K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS18139@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins18139@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins18139@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_1_0603_10K':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS18155@MXJ.R_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins18155@mxj.\r_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins18155@mxj.\r_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RF1 'RF_RF1_2.4GHZ':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS16366@MYLIBRARY.RF.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins16366@mylibrary.\rf.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins16366@mylibrary.\rf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RGB1 'RGB_RGB1_RGB':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS23985@MYLIBRARY.RGB.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins23985@mylibrary.\rgb.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page4_ins23985@mylibrary.\rgb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SW2*3_1_SW_SW2*3':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS22682@MXJ.SW2*3_1.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins22682@mxj.\sw2*3_1.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins22682@mxj.\sw2*3_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103-LQFP48_LQFP-48_(S1+S2':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS634@MYLIBRARY.STM32F103-LQFP48A.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins634@mylibrary.\stm32f103-lqfp48a.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins634@mylibrary.\stm32f103-lqfp48a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@MXJ.AIRCRAFT(SCH_1):INS747@MYLIBRARY.STM32F103-LQFP48B.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins747@mylibrary.\stm32f103-lqfp48b.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins747@mylibrary.\stm32f103-lqfp48b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U2 'ICM20602_LGA-16_ICM20602':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS8793@MYLIBRARY.ICM20602.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins8793@mylibrary.\icm20602.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins8793@mylibrary.\icm20602.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AK8975_LQFP-16_AK8975':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS9916@MYLIBRARY.AK8975.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins9916@mylibrary.\ak8975.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins9916@mylibrary.\ak8975.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'SPL06-001_LGA-8_SPL06-001':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS10981@MYLIBRARY.SPL06-001.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins10981@mylibrary.\spl06-001.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins10981@mylibrary.\spl06-001.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'W25Q32_SOIC-8_W25Q32':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS29237@MYLIBRARY.W25Q32.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins29237@mylibrary.\w25q32.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page2_ins29237@mylibrary.\w25q32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'NRF24L01+_QFN-20_NRF24L01+':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS12646@MYLIBRARY.NRF24L01+.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins12646@mylibrary.\nrf24l01+.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins12646@mylibrary.\nrf24l01+.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'LM27313_SOT23-5_LM27313':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS17535@MYLIBRARY.LM27313.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins17535@mylibrary.\lm27313.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins17535@mylibrary.\lm27313.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'MIC5219-3.3V_SOT23-5_MIC5219-3.':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS19604@MYLIBRARY.MIC5219-3.3V.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins19604@mylibrary.\mic5219-3.3v.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins19604@mylibrary.\mic5219-3.3v.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'XL/SM_8MHZ_8MHZ':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS2315@DISCRETE.XL/SM.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins2315@discrete.\xl/sm.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page1_ins2315@discrete.\xl/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y2 'XL/SM_8MHZ_16MHZ':;
+
+SECTION_NUMBER 1
+ '@MXJ.AIRCRAFT(SCH_1):INS52675@DISCRETE.XL/SM.NORMAL(CHIPS)':
+ C_PATH='@mxj.aircraft(sch_1):ins52675@discrete.\xl/sm.normal\(chips)',
+ P_PATH='@mxj.aircraft(sch_1):page3_ins52675@discrete.\xl/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

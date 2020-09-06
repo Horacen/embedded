@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S112                                 )
+(    Date/Time        : Fri Aug 30 16:34:43 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (223.506 -351.494)  Net: GND

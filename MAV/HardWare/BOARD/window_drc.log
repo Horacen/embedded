@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRC Update                                                       )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S112                                 )
+(    Date/Time        : Fri Aug 30 20:30:49 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ========= check       0 shapes                       0:00:00
+ ========= check       0 standalone pins              0:00:00
+ ========= check      20 symbols (pins,lines,text)    0:00:00
+ ========= check       0 xnets                        0:00:00
+ ========= check       0 nets                         0:00:00
+ ========= check       0 standalone branches          0:00:00
+ ========= check       0 standalone filled rectangles 0:00:00
+ ========= check       0 standalone lines             0:00:00
+ ========= check       3 standalone text              0:00:00
+ ========= check       0 standalone rectangles        0:00:00
+
+ ..... Total number of DRC errors  3
+
+ ..... DRC update completed, total CPU time   0:00:00
+ *************************************************************************
+

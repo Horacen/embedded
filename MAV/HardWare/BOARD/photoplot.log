@@ -1,0 +1,507 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Sep 30 12:36:45 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ ******************************************
+ WARNING: DRC OUT OF DATE on this layout.
+ ******************************************
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-1612.205 -1751.969)
+           ... using undefined line width of 4.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 4.000
+
+    WARNING: Segment with same start and end points at
+	(1102.791 897.543) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(95.000 -285.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(307.000 -33.004) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(865.465 792.165) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(865.461 792.165) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02402                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.06102      60.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.07087      60.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(-892.508 396.320) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-479.880 100.278) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-479.882 100.278) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-655.866 250.831) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-655.866 250.829) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-655.868 199.171) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-655.866 199.171) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(479.150 455.846) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(670.295 474.713) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(682.598 462.406) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1330.879 1395.879) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1347.428 -1282.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1282.429 -1347.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1273.974 -1227.578) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1347.429 -1282.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1287.428 1352.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1352.429 1287.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1232.578 1278.974) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1287.429 1352.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-638.543 888.465) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1282.428 -1347.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1347.429 -1282.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1227.578 -1273.974) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1282.429 -1347.429) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1354.121 1289.121) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1289.122 1354.122) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1354.122 1289.122) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1020.381 -1059.816) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1062.138 -1018.059) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1059.815 -1020.382) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1067.139 1023.058) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1018.058 -1062.139) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(-1025.381 1064.816) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1024.751 1068.832) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02402                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03543                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.05000                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.08000                                  DARK 
+  SQUARE     0.01378                     0.000 NO     DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.03150                    45.000 NO     DARK 
+  SQUARE     0.03937                     0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.03347       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03543      45.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03543      90.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03543     135.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.14567      90.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.07087     x 0.06299      90.000 NO     DARK 
+  OBLONG     0.05709     x 0.01181       0.000 NO     DARK 
+  OBLONG     0.05709     x 0.01181      90.000 NO     DARK 
+  OBLONG     0.07087     x 0.01890       0.000 NO     DARK 
+  OBLONG     0.09842     x 0.04331       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-870.000 -510.000)
+           ... using undefined line width of 4.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 4.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00945                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.01968                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+
+     SILK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_BOT >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/SILK_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.01575                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+
+     SILK_BOT created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLD_TOP >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/SOLD_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.05118                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.01772                     0.000 NO     DARK 
+  SQUARE     0.03543                     0.000 NO     DARK 
+  SQUARE     0.03543                    45.000 NO     DARK 
+  SQUARE     0.04331                     0.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.02559     x 0.04331      90.000 NO     DARK 
+  RECTANGLE  0.02953     x 0.03740       0.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.01575       0.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.01575      90.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.03937      45.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.03543     x 0.03937     135.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.14961      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01575       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.01575      90.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.05118       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.05118      90.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.07480     x 0.06693      90.000 NO     DARK 
+  OBLONG     0.06102     x 0.01575       0.000 NO     DARK 
+  OBLONG     0.06102     x 0.01575      90.000 NO     DARK 
+  OBLONG     0.07480     x 0.02284       0.000 NO     DARK 
+  OBLONG     0.10236     x 0.04724       0.000 NO     DARK 
+
+     SOLD_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLD_BOT >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/SOLD_BOT.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.05118                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06299                                  DARK 
+  SQUARE     0.03543                     0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.06496      60.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.07480      60.000 NO     DARK 
+
+     SOLD_BOT created with warnings
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+
+     DRILL created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        BOTTOM created with warnings
+        TOP created with warnings
+        SILK_TOP created with warnings
+        SILK_BOT created with warnings
+        SOLD_TOP created with warnings
+        SOLD_BOT created with warnings
+        DRILL created with warnings
+
+ ARTWORK had warnings

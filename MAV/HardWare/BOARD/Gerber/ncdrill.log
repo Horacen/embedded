@@ -1,0 +1,60 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Mon Sep 30 12:37:46 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD' ...
+
+
+
+     'Aircraft-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  11.8110    0.0000/  0.0000      PLATED         89
+            2.  19.6850    0.0000/  0.0000      PLATED         68
+            3.  31.4960    0.0000/  0.0000      PLATED          4
+            4.  35.4330    0.0000/  0.0000      PLATED          6
+            5.  39.3700    0.0000/  0.0000      PLATED         10
+
+     ---- Total holes:                                        177
+
+     ---- Total head travel:              9.28 feet (2.83 meters)
+

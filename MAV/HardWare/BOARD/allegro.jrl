@@ -1,0 +1,58 @@
+\t (00:00:05) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:00:05)     Journal start - Mon Nov 04 20:15:25 2019
+\t (00:00:05)         Host=JAHN User=Jahn Pid=13900 CPUs=8
+\t (00:00:05) CmdLine= D:\Cadence\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Jahn\Desktop\Allergo\HardWare\BOARD\Aircraft.brd
+\t (00:00:05) 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/Jahn/Desktop/Allergo/HardWare/BOARD/Aircraft.brd
+\i (00:00:07) trapsize 50154
+\i (00:00:07) trapsize 47983
+\i (00:00:07) trapsize 50535
+\i (00:00:07) trapsize 51633
+\i (00:00:08) trapsize 75401
+\i (00:00:08) trapsize 75401
+\i (00:00:10) generaledit 
+\i (00:00:11) trapsize 42795
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 733.259 -1105.440
+\i (00:00:12) trapsize 21398
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 733.259 -1105.440
+\i (00:00:12) trapsize 10699
+\i (00:00:14) zoom fit 
+\i (00:00:14) trapsize 46302
+\i (00:00:16) pick grid 1616.235 411.821
+\t (00:00:16) last pick:  1615.000 410.000
+\i (00:00:17) zoom fit 
+\i (00:00:17) trapsize 46302
+\i (00:00:47) setwindow form.mini
+\i (00:00:47) FORM mini class BOARD GEOMETRY 
+\i (00:00:48) FORM mini subcolor 1 
+\i (00:00:50) FORM mini subcolor 0 
+\i (00:00:59) FORM mini class MANUFACTURING 
+\i (00:01:03) FORM mini subclass AUTOSILK_BOTTOM 
+\i (00:01:04) FORM mini subclass AUTOSILK_TOP 
+\i (00:01:07) FORM mini subclass DETAILS 
+\i (00:01:09) FORM mini subclass NCDRILL_FIGURE 
+\i (00:01:11) FORM mini subclass NCDRILL_LEGEND 
+\i (00:01:13) FORM mini subclass NO_GLOSS_ALL 
+\i (00:01:18) FORM mini subclass XSECTION_CHART 
+\i (00:01:21) FORM mini subclass PROBE_TOP 
+\i (00:01:23) FORM mini subclass PROBE_BOTTOM 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) show element 
+\i (00:01:31) pick grid 3070.106 1013.742
+\t (00:01:31) last pick:  3070.000 1015.000
+\i (00:01:37) setwindow text
+\i (00:01:37) close 
+\i (00:01:40) setwindow form.mini
+\i (00:01:40) FORM mini class BOARD GEOMETRY 
+\i (00:01:49) FORM mini subclass DIMENSION 
+\i (00:01:50) FORM mini subcolor 0 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) pick grid 1745.879 161.792
+\t (00:01:50) last pick:  1745.000 160.000
+\i (00:02:38) exit 
+\t (00:02:39)     Journal end - Mon Nov 04 20:17:58 2019

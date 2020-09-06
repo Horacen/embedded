@@ -1,0 +1,16 @@
+\t (00:00:01) allegro 16.6-2015 S112 (v16-6-112JB) Windows 32
+\t (00:00:01)     Journal start - Mon Sep 09 00:29:41 2019
+\t (00:00:01)         Host=JAHN User=Jahn Pid=6284 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence\Cadence_SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\Jahn\Desktop\Allergo\HardWare\Lib\pad\SOT23-5.dra
+\t (00:00:01) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: C:/Users/Jahn/Desktop/Allergo/HardWare/Lib/pad/SOT23-5.dra
+\i (00:00:04) trapsize 46
+\i (00:00:04) trapsize 44
+\i (00:00:04) trapsize 47
+\i (00:00:04) trapsize 49
+\i (00:00:05) trapsize 35
+\i (00:00:05) trapsize 41
+\i (00:00:05) generaledit 
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Mon Sep 09 00:29:47 2019

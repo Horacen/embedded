@@ -1,0 +1,14 @@
+{ Using PSTWRITER 16.6.0 d001Aug-27-2019 at 11:23:05 }
+
+#1 WARNING(ORCAP-36006): Part Name "STM32F103-LQFP48_LQFP-48_(S1+S2)_STM32F103-LQFP48" is renamed to "STM32F103-LQFP48_LQFP-48_(S1+S2".
+#2 WARNING(ORCAP-36006): Part Name "MIC5219-3.3V_SOT23-5_MIC5219-3.3V" is renamed to "MIC5219-3.3V_SOT23-5_MIC5219-3.".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\NIANQ\DESKTOP\ALLERGO\HARDWARE\allegro/pstchip.dat
+
+Loading... C:\USERS\NIANQ\DESKTOP\ALLERGO\HARDWARE\allegro/pstchip.dat
+
+Loading... C:\USERS\NIANQ\DESKTOP\ALLERGO\HARDWARE\allegro/pstxprt.dat
+
+Loading... C:\USERS\NIANQ\DESKTOP\ALLERGO\HARDWARE\allegro/pstxnet.dat
+packaging the design view...

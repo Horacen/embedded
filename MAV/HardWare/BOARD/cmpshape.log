@@ -1,0 +1,31 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Compose Shapes                                                   )
+(                                                                     )
+(    Drawing          : Aircraft.brd                                  )
+(    Software Version : 16.6-2015S112                                 )
+(    Date/Time        : Thu Aug 29 15:15:41 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+current class name(BOARD GEOMETRY)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353416)  segDistance2(0.01353416)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+A total of 2 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+current class name(BOARD GEOMETRY)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353416)  segDistance2(0.01353416)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+A total of 2 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353416)  segDistance2(0.01353416)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+Extending Arc to close the smaller gap. The gaps are: shortest gap segDistance1(0.01353417)  segDistance2(0.01353417)
+A total of 2 shapes were created.
+There are segments remaining which do not form a closed shape based on current gap settings.
+Use the "Close Shape" option from the RMB popup to close any shape(s) left open.
